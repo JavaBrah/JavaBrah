@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/JavaBrah/JavaBrah/raw/main/assets/dark-banner.png" width="80%" alt="JavaBrah banner"/>
+  <img src="https://github.com/JavaBrah/WebsiteDemo/blob/main/github-header-image.png" width="80%" alt="JavaBrah banner"/>
 </div>
 
 ---
