@@ -40,8 +40,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-dark-omega.vercel.app/api?username=JavaBrah&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats-dark-omega.vercel.app/api/top-langs/?username=JavaBrah&hide=css,html&theme=dark&layout=compact" height="160"/>
+ ![JavaBrah's Stats](https://github-readme-stats.vercel.app/api?username=JavaBrah&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![JavaBrah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JavaBrah&theme=vue-dark&hide_border=true)
+  ![JavaBrah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaBrah&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 ---
@@ -63,3 +64,4 @@
 </details>
 
 ---
+
