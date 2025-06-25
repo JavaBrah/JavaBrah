@@ -1,4 +1,4 @@
-![Welcome Banner](/home/kegan/WebsiteDemo/front_end/imageassets/github-header-image.png)
+![Welcome Banner]("C:\Users\kegan\Downloads\github-header-image (1).png")
 <h3 align="center">From No-Where, Wyoming: Aspiring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javabrah&label=Profile%20views&color=0e75b6&style=flat" alt="javabrah" /> </p>
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javabrah&show_icons=true&locale=en" alt="javabrah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javabrah&" alt="javabrah" /></p>
+![github-header-image (1)](https://github.com/user-attachments/assets/2f7907e0-345f-48cc-b1ea-7c55385cec03)
