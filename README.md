@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kegan Johnson</h1>
+![Welcome Banner](/home/kegan/WebsiteDemo/front_end/imageassets/github-header-image.png)
 <h3 align="center">From No-Where, Wyoming: Aspiring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javabrah&label=Profile%20views&color=0e75b6&style=flat" alt="javabrah" /> </p>
