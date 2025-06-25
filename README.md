@@ -1,4 +1,6 @@
+<p align='center'>
 ![github-header-image (1)](https://github.com/user-attachments/assets/2f7907e0-345f-48cc-b1ea-7c55385cec03)
+</p>
 <h3 align="center">From No-Where, Wyoming: Aspiring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javabrah&label=Profile%20views&color=0e75b6&style=flat" alt="javabrah" /> </p>
