@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Website Demo](https://github.com/JavaBrah/WebsiteDemo)
 
-- 🌱 I’m currently learning **Django/React Framewords**
+- 🌱 I’m currently learning **Django/React Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JavaBrah](https://github.com/JavaBrah)
 
