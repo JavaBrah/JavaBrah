@@ -28,15 +28,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=javabrah&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-## 🧠 Top Languages (excluding Makefile)
+## Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javabrah&hide=makefile&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JavaBrah" alt="GitHub Streak" />
-</p>
 
